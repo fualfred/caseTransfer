@@ -1,0 +1,2 @@
+# testlinkTool
+基于python和Pyqt5编写的gui界面工具，将Excel表格模版转换成Testlink可接受的xml文件
